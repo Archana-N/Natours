@@ -1,2 +1,2 @@
 # Natours
-Natours project to learn advanced HTML and CSS with Sass.
+Natours project to learn Advanced HTML and CSS with Sass.
